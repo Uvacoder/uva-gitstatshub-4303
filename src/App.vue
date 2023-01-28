@@ -11,7 +11,7 @@ import "reset-css";
 export default {
   name: "App",
   metaInfo: {
-    title: "Gitstalk",
+    title: "Gitstatshub",
     meta: [
       {
         name: "keywords",
@@ -25,11 +25,11 @@ export default {
       },
       { name: "subject", content: "Discover who's upto what on Github" },
       { name: "author", content: "@thelittlewonder" },
-      { name: "url", content: "http://gitstalk.herokuapp.com" },
-      { name: "og:title", content: "Gitstalk" },
-      { name: "og:site_name", content: "Gitstalk" },
+      { name: "url", content: "http://Gitstatshub.vercel.app" },
+      { name: "og:title", content: "Gitstatshub" },
+      { name: "og:site_name", content: "Gitstatshub" },
       { name: "og:type", content: "website" },
-      { name: "og:url", content: "http://gitstalk.herokuapp.com" },
+      { name: "og:url", content: "http://Gitstatshub.vercel.app" },
       {
         name: "og:description",
         content:
@@ -42,15 +42,15 @@ export default {
       },
       {
         name: "twitter:site",
-        content: "http://gitstalk.herokuapp.com"
+        content: "http://Gitstatshub.vercel.app"
       },
-      { name: "twitter:title", content: "Gitstalk" },
+      { name: "twitter:title", content: "Gitstatshub" },
       {
         name: "twitter:description",
         content: "Discover who's upto what on Github"
       },
       { name: "twitter:creator", content: "@thelittlewonder" },
-      { itemprop: "name", content: "Gitstalk" },
+      { itemprop: "name", content: "Gitstatshub" },
       {
         itemprop: "description",
         content:
