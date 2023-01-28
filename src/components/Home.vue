@@ -2,7 +2,7 @@
   <div class="home">
     <form @submit.prevent="search()" class="search">
       <div class="brandlogo"/>
-      <h3>Discover who's upto what...</h3>
+      <h3>Discover who's upto what...who's got stats...who's bats</h3>
       <div class="biatch">
         <div>github.com/</div>
         <input name="username" v-model="username" @keypress="toggle()" placeholder="Enter Github Username">
